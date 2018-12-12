@@ -8,14 +8,14 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Flower.Controllers
 {
-    public class HomeController1 : Controller
+    public class PublicController : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()
         {
             return View();
         }
-        public IActionResult Trial()
+        public IActionResult Myaccount()
         {
             return View();
         }

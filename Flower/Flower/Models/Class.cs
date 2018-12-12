@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Flower.Models
 {
-    public class Class
+    public class 
     { 
 
     }
